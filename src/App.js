@@ -18,7 +18,7 @@ class App extends Component {
                 </BrowserRouter>
             </Provider>
         );
-    }
+    };
 }
 
 export default App;
